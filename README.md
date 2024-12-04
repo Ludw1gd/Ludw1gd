@@ -1,10 +1,12 @@
 ## Hi there 👋
 
+Hi there! 👋 I'm Ludw1gd. I love coding and contributing to open-source projects.
+
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ludw1gd&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ludw1gd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ### 📂 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludw1gd&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludw1gd&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 
 <!--

@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ludw1gd&show_icons=true&theme=radical)
+
+### 📂 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludw1gd&layout=compact&theme=radical)
+
+
 <!--
 **Ludw1gd/Ludw1gd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

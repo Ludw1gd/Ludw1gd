@@ -8,6 +8,8 @@ Hi there! 👋 I'm Ludw1gd. I love coding and contributing to open-source projec
 ### 📂 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludw1gd&layout=compact&theme=tokyonight&langs_count=6&hide_border=true)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 <!--
